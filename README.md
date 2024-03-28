@@ -5,6 +5,6 @@ I utilized all information and data provided from the courses.
 
 📚Follows the courses list:
 
-* Statistics with Python: frequencies and measurements
+* Statistics with Python: frequencies and measurements - From ALURA
 
 
